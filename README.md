@@ -4,9 +4,12 @@
 - 🌱 I’m currently learning HTML, CSS, JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 Contact me: https://www.facebook.com/hitoshi.itamino/
-
 - "🎵 I have no friends, to help me code. I need someone, but no one 🎵"
-- ![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.OrangeFoxie)
+
+![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.OrangeFoxie)
+
+## 📲 Contact me:
+- <a href="https://www.facebook.com/hitoshi.itamino/" target="_blank" rel="noopener noreferrer"><p>Facebook</p></a>
 
 ## 🧰 Languages and Tools:
 <p align="center">
