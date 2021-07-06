@@ -6,7 +6,7 @@
 
 - "🌱 I have no friends, to help me code. I need someone, but no one 👀"
 - Visitor:
-- ![](https://visitor-badge.laobi.icu/badge?page_id=OrangeFoxie.OrangeFoxie)
+- ![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.OrangeFoxie)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=OrangeFoxie&show_icons=true&theme=tokyonight)
 
