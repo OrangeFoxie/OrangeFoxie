@@ -7,9 +7,9 @@
 - Tuổi Dần, mệnh Thổ, 09/03/1998. 🐅🌎🚀
 - "🎵 I have no friends, to help me code. I need someone, but no one 🎵"
 
-<div align="center">
+
   ![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.OrangeFoxie)
-</div>
+
 
 ## 📲 Contact me:
 - <a href="https://www.facebook.com/hitoshi.itamino/" target="_blank" rel="noopener noreferrer">Facebook</a>
@@ -28,7 +28,7 @@
 </p>
 
 ## :trophy: My Github Stats:
-<div style="margin-left:50px;">
+<div>
   <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=OrangeFoxie&count_private=true&show_icons=true&theme=algolia">
     <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=OrangeFoxie&count_private=true&show_icons=true&theme=algolia" /> </a>
   <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=OrangeFoxie&hide=php&theme=algolia">
