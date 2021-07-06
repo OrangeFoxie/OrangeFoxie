@@ -5,6 +5,19 @@
 - 📫 Contact me: https://www.facebook.com/hitoshi.itamino/
 
 - "🌱 I have no friends, to help me code. I need someone, but no one 👀"
+- Visitor:
+- ![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
+
+
+
+
+
+
+
+
+
+
+
 <!---
 OrangeFoxie/OrangeFoxie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
