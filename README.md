@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @OrangeFoxie
+## 📚 HUTECH's student
+- 👋 Hi, I’m @OrangeFoxie (Cáo Cam)
 - 👀 I’m interested in HTML, CSS, JavaScripts
 - 🌱 I’m currently learning HTML, CSS, JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 Contact me: https://www.facebook.com/hitoshi.itamino/
 
-- "🌱 I have no friends, to help me code. I need someone, but no one 👀"
+- "🎵 I have no friends, to help me code. I need someone, but no one 🎵"
 - ![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.OrangeFoxie)
 
 ## 🧰 Languages and Tools:
@@ -21,10 +22,10 @@
 ## :trophy: My Github Stats:
 <div>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=OrangeFoxie&count_private=true&show_icons=true&theme=algolia">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=OrangeFoxie&count_private=true&show_icons=true&theme=algolia" />
+  <img  align="center" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=OrangeFoxie&count_private=true&show_icons=true&theme=algolia" />
 </a>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=OrangeFoxie&hide=php&theme=algolia">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=OrangeFoxie&hide=php&theme=algolia" />
+  <img align="center" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=OrangeFoxie&hide=php&theme=algolia" />
 </a>
 </div>
 
