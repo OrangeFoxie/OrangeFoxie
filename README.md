@@ -26,13 +26,15 @@
 </p>
 
 ## :trophy: My Github Stats:
+<div style="margin-left:50px;">
+  <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=OrangeFoxie&count_private=true&show_icons=true&theme=algolia">
+    <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=OrangeFoxie&count_private=true&show_icons=true&theme=algolia" />
+  </a>
+</div>
 <div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=OrangeFoxie&count_private=true&show_icons=true&theme=algolia">
-  <img  align="center" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=OrangeFoxie&count_private=true&show_icons=true&theme=algolia" />
-</a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=OrangeFoxie&hide=php&theme=algolia">
-  <img align="center" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=OrangeFoxie&hide=php&theme=algolia" />
-</a>
+  <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=OrangeFoxie&hide=php&theme=algolia">
+    <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=OrangeFoxie&hide=php&theme=algolia" />
+  </a>
 </div>
 
 
