@@ -7,7 +7,9 @@
 - Tuổi Dần, mệnh Thổ, 09/03/1998. 🐅🌎🚀
 - "🎵 I have no friends, to help me code. I need someone, but no one 🎵"
 
-![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.OrangeFoxie)
+<p align="center">
+  ![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.OrangeFoxie)
+</p>
 
 ## 📲 Contact me:
 - <a href="https://www.facebook.com/hitoshi.itamino/" target="_blank" rel="noopener noreferrer">Facebook</a>
