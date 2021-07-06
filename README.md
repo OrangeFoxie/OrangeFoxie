@@ -5,6 +5,7 @@
 - 📫 Contact me: https://www.facebook.com/hitoshi.itamino/
 
 - "🌱 I have no friends, to help me code. I need someone, but no one 👀"
+- ![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.OrangeFoxie)
 
 ## 🧰 Languages and Tools:
 <p align="center">
@@ -17,8 +18,9 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.OrangeFoxie)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=OrangeFoxie&show_icons=true&theme=algolia)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OrangeFoxie&theme=algolia)
 
 
