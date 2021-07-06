@@ -2,9 +2,7 @@
 - 👋 Hi, I’m @OrangeFoxie (Cáo Cam)
 - 👀 I’m interested in HTML, CSS, JavaScripts
 - 🌱 I’m currently learning HTML, CSS, JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 Contact me: https://www.facebook.com/hitoshi.itamino/
-- Tuổi Dần, mệnh Thổ, 09/03/1998. 🐅🌎🚀
+- 🚀🌎🐅 Tuổi Dần, mệnh Thổ, 09/03/1998 🐅🌎🚀
 - "🎵 I have no friends, to help me code. I need someone, but no one 🎵"
 
 
