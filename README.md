@@ -7,7 +7,10 @@
 
 
 ## 📲 Contact me:
-<a href="https://www.facebook.com/hitoshi.itamino/" target="_blank" rel="noopener noreferrer">Facebook</a>, <a href="https://zalo.me/0325893888" target="_blank" rel="noopener noreferrer">Zalo</a>, <a href="mailto:vinhphuc931998@gmail.com" target="_blank" rel="noopener noreferrer">Gmail</a>
+<p align="center">
+  <a href="https://www.facebook.com/hitoshi.itamino/" target="_blank" rel="noopener noreferrer">Facebook</a>, <a href="https://zalo.me/0325893888" target="_blank" rel="noopener noreferrer">Zalo</a>, <a href="mailto:vinhphuc931998@gmail.com" target="_blank" rel="noopener noreferrer">Gmail</a>
+</p>
+
 
 ## 🧰 Languages and Tools:
 <p align="center">
