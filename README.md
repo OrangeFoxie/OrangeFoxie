@@ -24,14 +24,16 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px" alt="Windows" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
 </p>
-
+<!--
 ## :trophy: My Github Stats:
 <div>
   <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=OrangeFoxie&count_private=true&show_icons=true&theme=algolia">
     <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=OrangeFoxie&count_private=true&show_icons=true&theme=algolia" /> </a>
   <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=OrangeFoxie&hide=php&theme=algolia">
     <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=OrangeFoxie&hide=php&theme=algolia" />  </a>
-</div>
+</div>-->
+
+
 
 
 
