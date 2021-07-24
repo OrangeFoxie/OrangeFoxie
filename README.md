@@ -1,13 +1,14 @@
  🐅🎵 I have no friends, to help me code. I need someone, but no one 🎵🐅
 
-  ![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.OrangeFoxie)
+
 
 ## 📲 Contact me:
 <p align="center">
   <a href="https://www.facebook.com/hitoshi.itamino/" target="_blank" rel="noopener noreferrer">Facebook</a>, <a href="https://zalo.me/0325893888" target="_blank" rel="noopener noreferrer">Zalo</a>, <a href="mailto:vinhphuc931998@gmail.com" target="_blank" rel="noopener noreferrer">Gmail</a>
 </p>
 
-
+  ![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.OrangeFoxie)
+<!--   
 ## 🧰 Languages and Tools:
 <p align="center">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
@@ -20,7 +21,7 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px" alt="Windows" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
-</p>
+</p> -->
 
 ## :trophy: My Github Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrangeFoxie&theme=algolia&show_icons=true)
