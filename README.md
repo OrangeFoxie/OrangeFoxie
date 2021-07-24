@@ -1,10 +1,6 @@
-## 📚 🐅
-- 👋 Phạm Nguyễn Hoàng Vĩnh Phúc 🚀
-- 🐅🎵 I have no friends, to help me code. I need someone, but no one 🎵🐅
-
+ 🐅🎵 I have no friends, to help me code. I need someone, but no one 🎵🐅
 
   ![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.OrangeFoxie)
-
 
 ## 📲 Contact me:
 <p align="center">
