@@ -1,11 +1,9 @@
- 🐅🎵 I have no friends, to help me code. I need someone, but no one 🎵🐅
-
-
-
 ## 📲 Contact me:
 <p align="center">
-  <a href="https://www.facebook.com/hitoshi.itamino/" target="_blank" rel="noopener noreferrer">Facebook</a>, <a href="https://zalo.me/0325893888" target="_blank" rel="noopener noreferrer">Zalo</a>, <a href="mailto:vinhphuc931998@gmail.com" target="_blank" rel="noopener noreferrer">Gmail</a>
+  <a href="https://www.facebook.com/hitoshi.itamino/" target="_blank" rel="noopener noreferrer">Facebook</a>, <a href="https://zalo.me/0325893888" target="_blank" rel="noopener noreferrer">Zalo</a>, <a href="mailto:vinhphuc931998@gmail.com" target="_blank" rel="noopener noreferrer">Gmail</a>  
 </p>
+
+ <p align="center">🐅🎵 I have no friends, to help me code. I need someone, but no one 🎵🐅</p>
 
   ![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.OrangeFoxie)
 <!--   
